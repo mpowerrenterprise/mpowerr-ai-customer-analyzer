@@ -1,4 +1,4 @@
-# Mpowerr AICA (AI Customer Analyzer)
+# Mpowerr AICA
 
 ## Repo Structure
 
