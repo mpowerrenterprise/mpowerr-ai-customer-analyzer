@@ -1,5 +1,7 @@
 # Mpowerr AICA
 
+## AI Customer Analyzer
+
 ## Repo Structure
 
 ```text
